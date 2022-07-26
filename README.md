@@ -1,7 +1,6 @@
 ### Olá sou Leonardo 👋
 
 - 🌱 Estou estudando: JavaScript
-- 📫 Contate-me: leoscruz22@gmail.com
 - 😄 Pronome: Ele/Dele
 
 ##
