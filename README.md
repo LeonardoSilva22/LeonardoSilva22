@@ -3,7 +3,6 @@
 - 🌱 Estou estudando: JavaScript
 - 📫 Contate-me: leoscruz22@gmail.com
 - 😄 Pronome: Ele/Dele
-- 🎨 Site: https://Leonardosilva.vercel.app
 
 ##
 
@@ -14,6 +13,10 @@
   </a>
   
   ##
+  
+   <a href='https://github.com/LeonardoSilva22/WeatherApp'>
+  <img height='100em' src='https://github-readme-stats.vercel.app/api/pin/?username=LeonardoSilva22&repo=WeatherApp&theme=material-palenight&hide_border=true'/>
+  </a>
   
 </div>
 
@@ -26,7 +29,9 @@
   ##
 
 <div> 
+ <a href="https://leonardosilva.vercel.app" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/Leoscruz22" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:leoscruz22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leoscruz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/leoscruz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
 </div>
