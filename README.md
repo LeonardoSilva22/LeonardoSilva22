@@ -17,6 +17,7 @@
   
   <a href='https://github.com/LeonardoSilva22/WeatherApp'>
   <img height='100em' src='https://github-readme-stats.vercel.app/api/pin/?username=LeonardoSilva22&repo=WeatherApp&theme=material-palenight&hide_border=true'/>
+  </a>
 </div>
 
 <div style="display: inline_block"><br>
